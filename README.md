@@ -32,3 +32,24 @@ https://github.com/eXperion17/MadLevel4Example
 https://github.com/eXperion17/MadLevel4Task1
 
 https://github.com/eXperion17/MadLevel4Task2
+
+
+Level 5:
+
+https://github.com/eXperion17/MadLevel5Example
+
+https://github.com/eXperion17/madlevel5task1
+
+https://github.com/eXperion17/MadLevel5Task2
+
+
+Level 6:
+
+https://github.com/eXperion17/MadLevel6Example
+
+https://github.com/eXperion17/madlevelTask1 (Didn't rename it)
+
+https://github.com/eXperion17/MadLevel6Task2
+
+
+
